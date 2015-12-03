@@ -22,6 +22,4 @@ while 1:
         
     # Write an action using print
     # To debug: print("Debug messages...", file=sys.stderr)
-    #print("mountains:", file=sys.stderr)
-    #print(mountain_h[3], file=sys.stderr)
     # either:  FIRE (ship is firing its phase cannons) or HOLD (ship is not firing).
